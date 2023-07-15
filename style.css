@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+p{
+    background-color: gray;
+    color: white;
+}
+#ram{
+    background-color: black;
+    color: white;
+}
+.it{
+    background-color: blue;
+    color: black;
+}
+#gita{
+    background-color: azure;
+    color: black;
+}
