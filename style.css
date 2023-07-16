@@ -4,10 +4,20 @@ body{
 p{
     background-color: gray;
     color: white;
+    /* Learning about font .. family font is used for font style in text*/
+    font-family: 'Times New Roman', Times, serif;
 }
 #ram{
     background-color: black;
     color: white;
+    text-decoration: dashed;
+    font-weight: lighter;
+    font-size: larger;
+    border: solid;
+    border-width: 5px;
+    border-color: cadetblue;
+    border-radius: 50px;
+    padding: 30px;
 }
 .it{
     background-color: blue;
