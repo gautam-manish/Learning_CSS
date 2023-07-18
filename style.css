@@ -33,3 +33,25 @@ p{
     background-color: azure;
     color: black;
 }
+#margin{
+    margin: 50px;
+}
+#box1{
+    color: white;
+    border: 5px solid;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: blueviolet;
+}
+#box2{
+    color: white;
+    border: 5px solid;
+    border-color: black;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: red;
+    margin-top: 50px;
+}
