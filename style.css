@@ -68,3 +68,19 @@ img{
    
     float: left;
 }
+a:link{
+    color: green;
+}
+a:visited{
+    color: tomato;
+}
+a:hover{
+    color: darkblue;
+}
+button:hover{
+    color: aqua;
+    background-color: black;
+}
+button:active{
+    background-color: brown;
+}
