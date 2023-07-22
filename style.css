@@ -84,3 +84,12 @@ button:hover{
 button:active{
     background-color: brown;
 }
+h2{
+    color: blue;
+    text-shadow: 5px 5px 15px red;
+    /* box-shadow: 5px 5px 15px pink; */
+}
+h2:hover{
+    box-shadow: 5px 5px 15px rgb(247, 0, 37);
+
+}
