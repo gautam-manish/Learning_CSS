@@ -91,5 +91,7 @@ h2{
 }
 h2:hover{
     box-shadow: 5px 5px 15px rgb(247, 0, 37);
-
+}
+.fa-twitter{
+    color: blue;
 }
